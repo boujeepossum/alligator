@@ -1,0 +1,12 @@
+# Client configurations contain private keys - never commit!
+clients/
+
+# Editor files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Backup files
+*.bak
+*.backup
